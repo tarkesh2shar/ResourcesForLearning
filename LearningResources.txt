@@ -1,2 +1,3 @@
 SOLID Patter for Architecture 
 https://codepen.io/beaucarnes/pen/gmowZd?editors=0010
+https://thefullstack.xyz/solid-javascript/
